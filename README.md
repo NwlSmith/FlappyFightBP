@@ -11,10 +11,6 @@ TO DO:
 
 - Background
 
-- Explosion particle effects
-
-- Rocket particle effects
-
 - Refine movement?
 
 - What's the goal? - timer? can the other player fight back?
@@ -22,3 +18,14 @@ TO DO:
 - Points?
 
 - Menu screens
+
+STRETCH GOALS:
+
+- AI?
+
+
+FINISHED:
+
+- Explosion particle effects - DONE
+
+- Rocket particle effects - DONE
