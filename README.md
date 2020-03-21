@@ -7,15 +7,18 @@ Created: 3/2/2020
 
 TO DO:
 
+- Mine does not register collisions properly
+
 - Sound effects
 
 - Background
 
 - Refine movement?
 
-- What's the goal? - timer? can the other player fight back?
+- What's the goal? can the other player fight back?
 
-- Points?
+- ART:
+	- Scoreboard
 
 - Menu screens
 
@@ -29,3 +32,11 @@ FINISHED:
 - Explosion particle effects - DONE
 
 - Rocket particle effects - DONE
+
+- Sound effects in code, need actual sounds
+
+- Scoreboard UI
+
+- Score + timer
+
+- Added mine
