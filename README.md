@@ -7,10 +7,6 @@ Created: 3/2/2020
 
 TO DO:
 
-- Mine does not register collisions properly
-
-- Sound effects
-
 - Background
 
 - Refine movement?
@@ -40,3 +36,5 @@ FINISHED:
 - Score + timer
 
 - Added mine
+
+- Added basic sound effects
