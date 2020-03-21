@@ -15,8 +15,13 @@ TO DO:
 
 - ART:
 	- Scoreboard
+	- Main Menu
+	- Find a good font
+	- New mouse cursor
 
 - Menu screens
+
+
 
 STRETCH GOALS:
 
