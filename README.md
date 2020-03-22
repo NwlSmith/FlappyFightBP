@@ -7,24 +7,23 @@ Created: 3/2/2020
 
 TO DO:
 
-- Background
-
 - Refine movement?
 
-- What's the goal? can the other player fight back?
+- Camera - Orthographic or perspective?
+
+- Implement goal - after certain points, someone wins
+	- Win screen?
+
+- Music
 
 - ART:
+	- Background
 	- Scoreboard
 	- Main Menu
 	- Find a good font
 	- New mouse cursor
 
-- Menu screens
-	- Main menu
-	- Options menu
-	- Instructions menu
-
-
+- Options menu functionality
 
 STRETCH GOALS:
 
@@ -48,3 +47,8 @@ FINISHED:
 - Added basic sound effects
 
 - Corrected player deaths
+
+- Menu screens
+	- Main menu
+	- Options menu
+	- Instructions menu
