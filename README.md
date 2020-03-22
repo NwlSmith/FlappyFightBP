@@ -20,6 +20,9 @@ TO DO:
 	- New mouse cursor
 
 - Menu screens
+	- Main menu
+	- Options menu
+	- Instructions menu
 
 
 
@@ -30,9 +33,9 @@ STRETCH GOALS:
 
 FINISHED:
 
-- Explosion particle effects - DONE
+- Explosion particle effects
 
-- Rocket particle effects - DONE
+- Rocket particle effects
 
 - Sound effects in code, need actual sounds
 
@@ -43,3 +46,5 @@ FINISHED:
 - Added mine
 
 - Added basic sound effects
+
+- Corrected player deaths
