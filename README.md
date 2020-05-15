@@ -2,7 +2,12 @@
 
 Nate Smith
 
-Created: 3/2/2020
+Created: 3/2/2020 - 3/5/2020 + 5/12/2020 -  
+
+Credits:
+
+Music: "Plucky Space" - Vex8
+https://www.looperman.com/loops/detail/202014/plucky-space-130bpm-edm-synth-loop
 
 
 TO DO:
